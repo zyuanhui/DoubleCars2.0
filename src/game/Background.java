@@ -1,7 +1,10 @@
 package game;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
-/**游戏背景*/
+/**
+ * 游戏背景
+ * 一次提交测试
+ * */
 public class Background {
 	protected BufferedImage image;
 	protected int width;
